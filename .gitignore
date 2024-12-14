@@ -1,0 +1,13 @@
+.idea
+.vs/
+**/bin/
+**/obj/
+*.mgcb
+*.temp
+imgui.ini
+.vscode/
+*.user
+lfs/
+hooks/
+
+packed/
